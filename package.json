@@ -1,0 +1,9 @@
+{
+  "name": "indie-map-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "place:add": "node scripts/place-add.mjs",
+    "place:remove": "node scripts/place-remove.mjs"
+  }
+}

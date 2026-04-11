@@ -1135,33 +1135,6 @@
     "country": "CA"
   },
   {
-    "id": "462b80ae-f32b-4c9f-9139-541481817b45",
-    "name": "La cantine Champ Libre",
-    "website": "https://www.champ-libre-cantine.fr",
-    "lat": 48.869977020132,
-    "lng": 2.359226039778,
-    "address": "9 Rue Taylor, 75010 Paris, France",
-    "phone": "+33 9 81 94 11 14",
-    "category": "Restaurant",
-    "openingHours": "Jeudi 12h00-15h00, 19h30-23h00\nVendredi 12h00-15h00, 19h30-23h00\nSamedi 12h00-15h00, 19h30-23h00\nDimanche Fermé\nLundi Fermé\nMardi 12h00-15h00, 19h30-23h00\nMercredi 12h00-15h00, 19h30-23h00",
-    "miniText": "Cantine de quartier chaleureuse proposant une cuisine maison à partir de produits frais et de saison. Les légumes proviennent de notre ferme maraîchère bio dans le Vexin, complétés par des produits de producteurs engagés. La carte évolue chaque jour pour mettre en valeur des matières premières majoritairement biologiques et issues de pratiques agricoles vertueuses.",
-    "panoramaImage": "/panoramas/cantine-champ-libre.webp",
-    "translations": {
-      "miniText": {},
-      "en": {
-        "miniText": "Friendly neighborhood canteen serving home-cooked meals made with fresh, seasonal produce. Vegetables come from our organic market garden farm in the Vexin region, complemented by products from committed producers. The menu evolves daily to showcase raw materials that are mostly organic and derived from virtuous farming practices."
-      }
-    },
-    "country": "FR",
-    "city": "Paris",
-    "timeZone": "Europe/Paris",
-    "createdAt": "2026-02-23T00:00:00.000Z",
-    "updatedAt": "2026-02-26T21:33:10.415Z",
-    "tags": [
-      "Restaurant"
-    ]
-  },
-  {
     "id": "4a2c9194-13bc-414a-977a-9f44c388f5c6",
     "name": "Frame Brasserie",
     "website": "https://www.framebrasserie.fr",
@@ -10596,32 +10569,6 @@
     "translations": {
       "en": {
         "miniText": "Restaurant offering traditional cuisine revisited in a setting inspired by Hanoi's old houses. HOME features emblematic North Vietnamese recipes, prepared with local, seasonal ingredients."
-      }
-    }
-  },
-  {
-    "id": "faa11533-30a7-445d-ac24-75602f5bd33e",
-    "name": "Duong's Restaurant",
-    "city": "Hanoi",
-    "country": "VN",
-    "address": "27 Ng. Huyện, Hàng Trống, Hoàn Kiếm, Hà Nội 10000, Vietnam",
-    "website": "https://duongsrestaurant.com",
-    "lat": 21.02963952793942,
-    "lng": 105.84857923558219,
-    "category": "Restaurant",
-    "phone": "+84 24 3636 4567",
-    "openingHours": "Jeudi 11h00-22h00\nVendredi 11h00-22h00\nSamedi 11h00-22h00\nDimanche 11h00-22h00\nLundi 11h00-22h00\nMardi 11h00-22h00\nMercredi 11h00-22h00",
-    "timeZone": "Asia/Ho_Chi_Minh",
-    "tags": [
-      "Restaurant"
-    ],
-    "miniText": "Restaurant proposant une cuisine vietnamienne traditionnelle revisitée avec une approche moderne. Duong’s Restaurant met en avant des recettes emblématiques du Vietnam préparées à partir d’ingrédients locaux, dans un cadre élégant au cœur du vieux quartier de Hanoï.",
-    "createdAt": "2026-02-18T18:50:20.280Z",
-    "updatedAt": "2026-02-18T18:52:33.841Z",
-    "panoramaImage": "/downloads_webp/duonghan.webp",
-    "translations": {
-      "en": {
-        "miniText": "Restaurant offering traditional Vietnamese cuisine revisited with a modern approach. Duong's Restaurant features emblematic Vietnamese recipes prepared with local ingredients, in an elegant setting in the heart of Hanoi's Old Quarter."
       }
     }
   },
