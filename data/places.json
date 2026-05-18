@@ -13743,5 +13743,35 @@
       }
     },
     "panoramaImage": "/downloads/labeillegourmande.webp"
+  },
+  {
+    "id": "3918d323-7acb-4d03-9360-6c08c278ba3d",
+    "name": "Farm to Table, Organic Cafe",
+    "city": "Bangkok",
+    "country": "TH",
+    "address": "179 Atsadang Rd, Wang Burapha Phirom, Phra Nakhon, Bangkok 10200, Thaïlande",
+    "website": "https://www.facebook.com/FarmToTableOrganicCafe/",
+    "lat": 13.74396887926826,
+    "lng": 100.49621291534017,
+    "category": "Café",
+    "phone": "+66 2 115 2625",
+    "openingHours": "Lundi 9h00–19h00\nMardi 9h00–19h00\nMercredi Fermé\nJeudi 9h00–19h00\nVendredi 9h00–19h00\nSamedi 9h00–19h00\nDimanche 9h00–19h00",
+    "timeZone": "Asia/Bangkok",
+    "miniText": "Café situé près du marché aux fleurs de Bangkok. Le lieu relie l’esprit de la ferme à table à une adresse urbaine locale et engagée, en proposant des glaces artisanales, du café et des plats préparés à partir des produits de leur ferme.",
+    "homeTextNear": "À deux pas, Farm to Table, Organic Cafe propose café, glaces artisanales et plats préparés avec les produits de leur ferme, près du marché aux fleurs de Bangkok.",
+    "homeTextFar": "À Bangkok, Farm to Table, Organic Cafe est un café tourné vers l’esprit de la ferme à table, avec glaces artisanales, café et plats issus de leur production.",
+    "createdAt": "2026-05-17T08:15:54.895Z",
+    "updatedAt": "2026-05-18T00:20:57.839Z",
+    "tags": [
+      "Café"
+    ],
+    "translations": {
+      "en": {
+        "miniText": "A cafe located near Bangkok’s flower market. The place connects the farm-to-table spirit with a local and committed urban address, offering artisanal ice cream, coffee and dishes prepared with produce from their farm.",
+        "homeTextNear": "Just nearby, Farm to Table, Organic Cafe offers coffee, artisanal ice cream and dishes prepared with produce from their farm, near Bangkok’s flower market.",
+        "homeTextFar": "In Bangkok, Farm to Table, Organic Cafe is a cafe rooted in the farm-to-table spirit, with artisanal ice cream, coffee and dishes from their own production."
+      }
+    },
+    "panoramaImage": "/downloads/farmcafebangkok.jpg"
   }
 ]
