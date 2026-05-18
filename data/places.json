@@ -13773,5 +13773,37 @@
       }
     },
     "panoramaImage": "/downloads/farmcafebangkok.jpg"
+  },
+  {
+    "id": "9398564c-ae60-4a39-a15b-4dfe47da931c",
+    "name": "La Cité Bleue",
+    "city": "Bordeaux",
+    "country": "FR",
+    "address": "176 Rue Achard Batiment N1-N2, 33300 Bordeaux, France",
+    "website": "https://www.cite-bleue.fr/",
+    "openingHours": "Lundi 06h00-19h30\nMardi 06h00-19h30\nMercredi 06h00-19h30\nJeudi 06h00-19h30\nVendredi 06h00-19h30\nSamedi 11h00-22h00\nDimanche Fermé",
+    "lat": 44.87145794816747,
+    "lng": -0.5463940116447853,
+    "category": "Lieu alternatif",
+    "phone": "",
+    "timeZone": "Europe/Paris",
+    "createdAt": "2026-05-18T01:06:18.082Z",
+    "updatedAt": "2026-05-18T01:18:50.044Z",
+    "miniText": "Lieu alternatif installé à Bacalan, sur un ancien site de raffinerie de sucre. Réunissant des organisations autour de la production locale, de la sobriété, de la coopération, du lien social, de l’artisanat, de l’économie sociale et solidaire, de l’économie circulaire, de l’art et de la culture.",
+    "tags": [
+      "Lieu alternatif"
+    ],
+    "translations": {
+      "miniText": {},
+      "en": {
+        "miniText": "An alternative place based in Bacalan, on a former sugar refinery site. Bringing together organizations around local production, sobriety, cooperation, social connection, crafts, the social and solidarity economy, circular economy, art and culture.",
+        "homeTextNear": "An alternative place in Bacalan, centered on local production, cooperation and social connection.",
+        "homeTextFar": "In Bordeaux, a former refinery site turned into a collective place around circular economy, crafts and culture."
+      }
+    },
+    "homeTextDone": true,
+    "homeTextNear": "Un lieu alternatif à Bacalan, autour de la production locale, de la coopération et du lien social.",
+    "homeTextFar": "À Bordeaux, un ancien site de raffinerie devenu lieu collectif autour de l’économie circulaire, de l’artisanat et de la culture.",
+    "panoramaImage": "/downloads/citebleuebordeaux.png"
   }
 ]
